@@ -1,6 +1,6 @@
 # *Celebrities degrees of seperation*
 
-**Simple To-Do** This is a task done during attending CS50 | Harvard University Course
+**Celebrities degrees of seperation** This is a task done during attending CS50 | Harvard University Course
 
 "According to the Six Degrees of Kevin Bacon game, anyone in the Hollywood film industry can be connected to Kevin Bacon within six steps, where each step consists of finding a film that two actors both starred in.
 
